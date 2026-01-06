@@ -9,7 +9,7 @@ Me chamo Salatiel Batista Santos, tenho 23 anos, sou natural de Sergipe. Atualme
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://github.com/zikkjj"
+            src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png"
         />
     </a>
 </p>
