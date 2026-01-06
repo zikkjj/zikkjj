@@ -4,15 +4,6 @@
 
 Me chamo Salatiel Batista Santos, tenho 23 anos, sou natural de Sergipe. Atualmente, estou cursando Ciências da Computação na UNIT. Fui moldado e cresci no ambiente em volta da tecnologia, e também compartilho minha rotina de estudos e evolução através do meu perfil pessoal do Instagram,  "[Zikkjj](https://www.instagram.com/zikkjj/)".
 
-<p align="left">
-    <a href="https://github.com/zikkjj">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png"
-        />
-    </a>
-</p>
 
 ---
 
@@ -81,38 +72,6 @@ Me chamo Salatiel Batista Santos, tenho 23 anos, sou natural de Sergipe. Atualme
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 
 ### 📊 Estatísticas
