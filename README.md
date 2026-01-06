@@ -81,4 +81,9 @@ Me chamo Salatiel Batista Santos, tenho 23 anos, sou natural de Sergipe. Atualme
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-          
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zikkjj&show_icons=true)
