@@ -77,7 +77,7 @@ Me chamo Salatiel Batista Santos, tenho 23 anos, sou natural de Sergipe. Atualme
     align="left" 
     alt="JAVA" 
     title="JAVA"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
