@@ -1,12 +1,5 @@
 ## 🎮 Salatiel Batista 🎮
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Salatiel Batista Santos, tenho 23 anos. Atualmente, estou cursando Ciências da Computação na UNIT. Apaixonado por tecnologia, e também compartilho minha rotina de estudos e evolução através do meu perfil pessoal do Instagram,  "[Zikkjj](https://www.instagram.com/zikkjj/)".
-
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
