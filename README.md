@@ -1,6 +1,6 @@
-## 🎮 Salatiel Batista 🎮
+## Salatiel Batista Santos
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
